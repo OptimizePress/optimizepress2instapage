@@ -11,8 +11,9 @@ Removes check404Page from process-optin-form page and fixing the 404 redirect on
 
 ##Installation
 
-1. Upload `optimizepress2instapage` to the `/wp-content/plugins/` directory
-2. Activate the plugin through the 'Plugins' menu in WordPress
+1. Click Download ZIP button on the right
+2. Install plugin archive through WordPress' Add plugin screen
+3. Activate the plugin
 
 
 ##Changelog
