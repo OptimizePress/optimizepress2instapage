@@ -7,7 +7,7 @@
 
 ##Description
 
-Removes check404Page from process-optin-form page and fixing the 404 redirect on opt-in form submit
+Removes check404Page from process-optin-form page and fixes the 404 redirect on opt-in form submit
 
 ##Installation
 
